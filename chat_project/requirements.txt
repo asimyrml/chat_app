@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+channels
+channels-redis
+django-cors-headers
+Pillow
+django-environ
+gunicorn
+python-dotenv
+python-decouple>=3.8
+daphne
